@@ -1,0 +1,9 @@
+.env
+/research-agent/.env
+/research-agent/.venv
+/research-agent/__pycache__
+/research-agent/.pytest_cache
+/research-agent/.mypy_cache
+/research-agent/.vscode
+/research-agent/.idea
+/research-agent/.DS_Store   
